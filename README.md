@@ -1,4 +1,7 @@
 # First-mini-project
+
+Read as a raw file on top right of this window
+
 for css and html class first website uploaded to github
 1st: added doctype html lang
 2nd added header
